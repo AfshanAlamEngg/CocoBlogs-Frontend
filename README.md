@@ -46,6 +46,10 @@ This is the frontend for a personal blogging project built with React. It provid
     npm start
     ```
 
+## Final Output
+
+![alt text](image.png)
+
 ## Usage
 
 Open your browser and navigate to `http://localhost:3000` to view the application.
